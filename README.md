@@ -27,39 +27,6 @@
 
 ---
 
-# 🚀 Featured Projects:
-
-### 💳 [Pay4All — Accessible E-Commerce & Banking Platform](https://github.com/moeztouilll/Pay4All)
-> **FinTech Project** | *Django · React · Qdrant · LangChain*
-*   Built a voice-first platform enabling blind and mobility-impaired users to shop and manage payments completely hands-free.
-*   Implemented intelligent natural language product search and personalized recommendations.
-
----
-
-### 🌐 [TechSolutions — Enterprise Infrastructure Project](https://github.com/moeztouilll/TechSolutions-Infrastructure-Project)
-> **Networking & Systems** | *GNS3 · VirtualBox · Linux · OSPF · VPN · NAT*
-*   Designed and deployed a multiservice enterprise network simulating a real company with an OSPF backbone and secure VPN tunnels.
-*   Deployed and configured virtual services: Web, Database, NFS, and Monitoring servers on Linux.
-*   Implemented efficient IP addressing using VLSM and automated DHCP configurations.
-
----
-
-### 🤖 [STELLIFEROUS — AI-Powered Networking Platform](https://github.com/moeztouilll/STELLIFEROUS2)
-> **Full-Stack Web & AI** | *PHP · JavaScript · SQL · LLM · XAMPP*
-*   Developed a platform connecting entrepreneurs and investors with AI-driven project management.
-*   Integrated LLMs for automatic generation of project titles/descriptions and a smart recommendation system for matching projects.
-*   Implemented real-time features: messaging, notifications, meetings, and an interactive AI chatbot.
-
----
-
-### 🛍️ [INVESTI — Smart AI Marketplace](https://github.com/moeztouilll/investi)
-> **JavaFX Application** | *Java · JavaFX · Stripe · LLM APIs · Leaflet*
-*   Developed an AI-powered marketplace featuring automated product content generation from uploaded images.
-*   Integrated Stripe for secure online payments, Leaflet for order tracking, and smart QR code search.
-*   Implemented intelligent product validation, content moderation, and automatic currency detection.
-
----
-
 # 💻 Tech Stack:
 
 ### 🛠️ Languages
